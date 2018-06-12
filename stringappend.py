@@ -1,3 +1,3 @@
-a=raw_input()
-a=a+'.'
-print a
+stl=raw_input()
+stl=stl+'.'
+print stl
